@@ -4,7 +4,7 @@ RSA encryption built from scratch in C++17 for **Discrete Structures, Fall 2026*
 Everything uses only `+ - * / %` on integers. No big-integer or cryptography
 libraries (no `__int128`, `pow`, GMP, Boost or OpenSSL).
 
-**Authors:** Name 1 (Roll No. ______) and Name 2 (Roll No. ______)
+**Authors:** Muhammad Hammad Anis and Hashaam Hassan
 
 ---
 
